@@ -7,4 +7,4 @@ To swap simply change the described comment and uncommented code at the beginnin
 
 Running in command line provides the option of including a device type with currently two devices set capabilities set up, S7 Edge and S10Plus.
 Command to run:
-mvn test -Ddevice=<devicename>
+mvn test -Ddevice="devicename"
